@@ -18,6 +18,7 @@
 ## Tools
 - Expo
 - IntelliJ (IDEA, AS, WS), VS Code
+- Jira
 ## Infrastructure
 - Linux
 - Git/GitHub
@@ -25,7 +26,6 @@
 - GitLab
 - Docker
 - Google Play Console
-- Jira
 - Confluence
 - <sup>1</sup> Circle Ci, Trello
 
