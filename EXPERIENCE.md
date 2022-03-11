@@ -12,10 +12,10 @@
 - Vue.js
 - NodeJS
 - <sup>1</sup> Dash
-### Tools
+## Tools
 - Expo
 - IntelliJ (IDEA, AS, WS), VS Code
-### Infrastructure
+## Infrastructure
 - Linux
 - Git/GitHub
 - GCP (Firebase - Firestone, TestLab, Crashlytics)
