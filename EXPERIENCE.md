@@ -12,6 +12,8 @@
 - Vue.js
 - NodeJS
 - <sup>1</sup> Dash
+#### Software/Project
+- Agile/Kanban
 #### Databases
 - SQL
 - NoSQL (Firestore, MongoDB + Atlas)
