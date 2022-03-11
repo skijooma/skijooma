@@ -3,7 +3,7 @@
 ### Programming
 - JavaScript/TypeScript
 - Java
-- Python
+-  <sup>1</sup> Python
 #### Frameworks/Libraries
 - React
 - Redux
