@@ -12,6 +12,9 @@
 - Vue.js
 - NodeJS
 - <sup>1</sup> Dash
+#### Databases
+- SQL
+- NoSQL (Firestore, MongoDB + Atlas)
 ## Tools
 - Expo
 - IntelliJ (IDEA, AS, WS), VS Code
