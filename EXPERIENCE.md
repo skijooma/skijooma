@@ -30,5 +30,5 @@
 - Google Play Console
 - Confluence
 - <sup>1</sup> Circle Ci, Trello
-- ## Note 1: Stuff I haven't used in over a year.
+## Note 1: Stuff I haven't used in over a year.
 
