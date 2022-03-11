@@ -23,5 +23,6 @@
 - Docker
 - Google Play
 - Jira
+- Confluence
 - <sup>1</sup> Circle Ci, Trello
 
