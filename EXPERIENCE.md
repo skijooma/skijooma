@@ -9,9 +9,12 @@
 - React
 - Redux
 - Redux-Saga
+- Vue.js
+- NodeJS
 - <sup>1</sup> Dash
 ### Tools
 - Expo
+- IntelliJ (IDEA, AS, WS), VS Code
 ### Infrastructure
 - Linux
 - Git/GitHub
@@ -19,5 +22,6 @@
 - GitLab
 - Docker
 - Google Play
-- 
+- Jira
+- <sup>1</sup> Circle Ci, Trello
 
