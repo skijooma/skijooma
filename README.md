@@ -1,5 +1,5 @@
 ### Hi there 👋 :sunglasses:
-## - 🔭 I currently work with [WiredIn Ltd.](https://www.wiredin.rw/). I work on a couple of projects for the company's offshore clients, in addition to in-house work.
+#### - 🔭 I currently work with [WiredIn Ltd.](https://www.wiredin.rw/). I work on a couple of projects for the company's offshore clients, in addition to in-house work.
 
 <!--
 **skijooma/skijooma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
