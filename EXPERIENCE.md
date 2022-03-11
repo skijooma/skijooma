@@ -9,5 +9,11 @@
 - Redux
 - Redux-Saga
 ### Tools
+- Expo
 ### Infrastructure
+- Linux
+- Git/GitHub
+- GCP
+- GitLab
+- Docker
 
