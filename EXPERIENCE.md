@@ -1,8 +1,13 @@
-# Skills & Tooling
+# Skills, Tooling & Infrastructure
 ## Skills
-### programming
+### Programming
 - JavaScript/TypeScript
 - Java
 - Python
+#### Frameworks/Libraries
+- React
+- Redux
+- Redux-Saga
 ### Tools
+### Infrastructure
 
