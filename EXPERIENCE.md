@@ -24,7 +24,7 @@
 - GCP (Firebase - Firestone, TestLab, Crashlytics)
 - GitLab
 - Docker
-- Google Play
+- Google Play Console
 - Jira
 - Confluence
 - <sup>1</sup> Circle Ci, Trello
