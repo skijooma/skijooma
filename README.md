@@ -2,6 +2,7 @@
 - 🔭 I am currently with [WiredIn Ltd.](https://www.wiredin.rw/). I work on a couple of projects for the company's offshore clients, in addition to in-house work.
 - The tech stack that I work with is fundamentally hinged on [Android](https://www.android.com/) & [React Native](https://www.android.com/), overreaching domains such as web development, UI/UX, & productivity infrastructure, among others.
 - I speak Luganda, English, and basic - intermediate Kinyarwanda/German. :) Ich verbessere meine Deutschkenntnisse auf C1 (Es ist Zeit)
+- Entrepreneurship is part of the year's goals.. (Es ist Zeit)
 
 <!--
 **skijooma/skijooma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
