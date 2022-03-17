@@ -1,6 +1,6 @@
 ### Hi there 👋 :sunglasses:.. It's Steven! 
 - 🔭 I am currently with [WiredIn Ltd.](https://www.wiredin.rw/). I work on a couple of projects for the company's offshore clients, in addition to in-house work.
-- The tech stack that I work with is fundamentally hinged on [Android](https://www.android.com/) & [React Native](https://www.android.com/), overreaching domains such as web development, UI/UX, & productivity infrastructure, among others.
+- The tech stack that I work with is fundamentally hinged on [Android](https://www.android.com/) & [React Native](https://www.android.com/), overreaching domains such as web development, UI/UX, & productivity infrastructure, among others. Soon I am adding TypeScript & Kotlin to the list..
 - I speak Luganda, English, and basic - intermediate Kinyarwanda/German. Ich verbessere meine Deutschkenntnisse auf C1 (Es ist Zeit) :-)
 - Entrepreneurship is part of the year's goals.. (Es ist Zeit)
 
